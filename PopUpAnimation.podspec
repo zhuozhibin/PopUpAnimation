@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PopUpAnimation"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "A extendable pop-up window animation for iOS"
 
   # This description is used to generate tags and improve search results.

@@ -8,7 +8,7 @@
 
 import UIKit
 
-class BNPopUpAnimationSimple: BNPopUpAnimation {
+open class BNPopUpAnimationSimple: BNPopUpAnimation {
     
     //MARK: - open or public
     
